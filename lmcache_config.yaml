@@ -1,0 +1,10 @@
+chunk_size: 256
+local_device: "cuda"
+max_local_cache_size: 5
+# remote_url: "redis://localhost:65432"
+remote_serde: "cachegen"
+pipelined_backend: False
+save_decode_cache: False
+enable_blending: False
+blend_recompute_ratio: 0.5
+blend_min_tokens: 256
