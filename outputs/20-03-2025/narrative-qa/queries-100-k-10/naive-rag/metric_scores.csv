@@ -1,0 +1,401 @@
+expected_output,actual_output,bleu1,bleu4,meteor,rouge
+A dust pan and brush,A dust-pan and brush.,,,,1.0
+A dust pan and brush,A dust-pan and brush.,,0.12574334296829354,,
+A dust pan and brush,A dust-pan and brush.,,,0.5111111111111111,
+A dust pan and brush,A dust-pan and brush.,0.6,,,
+A dust pan and brush,A dust-pan.,,,,0.7499999999999999
+A dust pan and brush,A dust-pan.,,0.05833544737207805,,
+A dust pan and brush,A dust-pan.,,,0.10416666666666666,
+A dust pan and brush,A dust-pan.,0.17113903967753066,,,
+A dust pan and brush,Dust-pan and brush.,,,,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,,0.13232169883599026,,
+A dust pan and brush,Dust-pan and brush.,,,0.38265306122448983,
+A dust pan and brush,Dust-pan and brush.,0.38940039153570244,,,
+A dust pan and brush,A dust-pan and brush.,,,,1.0
+A dust pan and brush,A dust-pan and brush.,,0.12574334296829354,,
+A dust pan and brush,A dust-pan and brush.,,,0.5111111111111111,
+A dust pan and brush,A dust-pan and brush.,0.6,,,
+A dust pan and brush,A dust-pan and brush.,,,,1.0
+A dust pan and brush,A dust-pan and brush.,,0.12574334296829354,,
+A dust pan and brush,A dust-pan and brush.,,,0.5111111111111111,
+A dust pan and brush,A dust-pan and brush.,0.6,,,
+A dust pan and brush,Her dust-pan and brush.,,,,0.8000000000000002
+A dust pan and brush,Her dust-pan and brush.,,0.11362193664674995,,
+A dust pan and brush,Her dust-pan and brush.,,,0.37500000000000006,
+A dust pan and brush,Her dust-pan and brush.,0.4,,,
+A dust pan and brush,Her dust-pan and brush.,,,,0.8000000000000002
+A dust pan and brush,Her dust-pan and brush.,,0.11362193664674995,,
+A dust pan and brush,Her dust-pan and brush.,,,0.37500000000000006,
+A dust pan and brush,Her dust-pan and brush.,0.4,,,
+A dust pan and brush,A dust-pan and brush.,,,,1.0
+A dust pan and brush,A dust-pan and brush.,,0.12574334296829354,,
+A dust pan and brush,A dust-pan and brush.,,,0.5111111111111111,
+A dust pan and brush,A dust-pan and brush.,0.6,,,
+A dust pan and brush,A dust-pan and brush.,,,,1.0
+A dust pan and brush,A dust-pan and brush.,,0.12574334296829354,,
+A dust pan and brush,A dust-pan and brush.,,,0.5111111111111111,
+A dust pan and brush,A dust-pan and brush.,0.6,,,
+A dust pan and brush,Dust-pan.,,,,0.5714285714285715
+A dust pan and brush,Dust-pan.,,0,,
+A dust pan and brush,Dust-pan.,,,0.0,
+A dust pan and brush,Dust-pan.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,Advanced race.,,,,0.8
+An advanced race,Advanced race.,,0.24028114141347542,,
+An advanced race,Advanced race.,,,0.625,
+An advanced race,Advanced race.,0.6666666666666666,,,
+An advanced race,Advanced race.,,,,0.8
+An advanced race,Advanced race.,,0.24028114141347542,,
+An advanced race,Advanced race.,,,0.625,
+An advanced race,Advanced race.,0.6666666666666666,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+An advanced race,The Dweller.,,,,0.0
+An advanced race,The Dweller.,,0,,
+An advanced race,The Dweller.,,,0.0,
+An advanced race,The Dweller.,0,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,,,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,0.02929627862265703,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,,0.24313725490196078,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,0.25523656890884816,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,0.08703654235438914,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,0.4094799210006583,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,0.08703654235438914,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,0.4094799210006583,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,,,,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,,0.06856346714060817,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,,,0.31633986928104574,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,0.25523656890884816,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,,,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,0.02929627862265703,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,,,0.24313725490196078,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,0.25523656890884816,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie due to his undercover investigation,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie due to his undercover investigation,,0.035783648460675284,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie due to his undercover investigation,,,0.24193548387096775,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie due to his undercover investigation,0.2308132432510116,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,0.08703654235438914,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,,,0.4094799210006583,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,0.04554775181964649,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,,0.4094799210006583,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,0.4039231756892703,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,,,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,0.04554775181964649,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,,,0.4094799210006583,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,0.4039231756892703,,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch suspects Stanwyk's cancer claim is a lie.,,,,0.25
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch suspects Stanwyk's cancer claim is a lie.,,0.016380632785140823,,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch suspects Stanwyk's cancer claim is a lie.,,,0.12987012987012989,
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch suspects Stanwyk's cancer claim is a lie.,0.21952465443761057,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Peru,Peru.,,,,1.0
+Peru,Peru.,,0.1495348781221221,,
+Peru,Peru.,,,0.45454545454545453,
+Peru,Peru.,0.5,,,
+Dire Offense ,A dire offence has been committed.,,,,0.25
+Dire Offense ,A dire offence has been committed.,,0.033031643180138064,,
+Dire Offense ,A dire offence has been committed.,,,0.2,
+Dire Offense ,A dire offence has been committed.,0.14285714285714285,,,
+Dire Offense ,A murder.,,,,0.0
+Dire Offense ,A murder.,,0,,
+Dire Offense ,A murder.,,,0.0,
+Dire Offense ,A murder.,0,,,
+Dire Offense ,"Pope declares an ""injustice"" has been committed.",,,,0.0
+Dire Offense ,"Pope declares an ""injustice"" has been committed.",,0,,
+Dire Offense ,"Pope declares an ""injustice"" has been committed.",,,0.0,
+Dire Offense ,"Pope declares an ""injustice"" has been committed.",0,,,
+Dire Offense ,A dire offence has been committed.,,,,0.25
+Dire Offense ,A dire offence has been committed.,,0.033031643180138064,,
+Dire Offense ,A dire offence has been committed.,,,0.2,
+Dire Offense ,A dire offence has been committed.,0.14285714285714285,,,
+Dire Offense ,Pope declares a dire offence has been committed.,,,,0.2
+Dire Offense ,Pope declares a dire offence has been committed.,,0.023980296761827107,,
+Dire Offense ,Pope declares a dire offence has been committed.,,,0.1851851851851852,
+Dire Offense ,Pope declares a dire offence has been committed.,0.11111111111111109,,,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,,,0.0
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,0,,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,,0.0,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",0,,,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,,,0.0
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,0,,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",,,0.0,
+Dire Offense ,"Pope declares an ""offence"" has been committed.",0,,,
+Dire Offense ,Pope declares murder.,,,,0.0
+Dire Offense ,Pope declares murder.,,0,,
+Dire Offense ,Pope declares murder.,,,0.0,
+Dire Offense ,Pope declares murder.,0,,,
+Dire Offense ,Pope declares a dire offence has been committed.,,,,0.2
+Dire Offense ,Pope declares a dire offence has been committed.,,0.023980296761827107,,
+Dire Offense ,Pope declares a dire offence has been committed.,,,0.1851851851851852,
+Dire Offense ,Pope declares a dire offence has been committed.,0.11111111111111109,,,
+Dire Offense ,"Pope declares ""dire offence"" has been committed.",,,,0.22222222222222224
+Dire Offense ,"Pope declares ""dire offence"" has been committed.",,0.021105340631872645,,
+Dire Offense ,"Pope declares ""dire offence"" has been committed.",,,0.17857142857142858,
+Dire Offense ,"Pope declares ""dire offence"" has been committed.",0.10000000000000002,,,
+In Socrates Cell?,"Kapuskasing, Toronto, Manhattan, Martha's Vineyard, Notting",,,,0.0
+In Socrates Cell?,"Kapuskasing, Toronto, Manhattan, Martha's Vineyard, Notting",,0,,
+In Socrates Cell?,"Kapuskasing, Toronto, Manhattan, Martha's Vineyard, Notting",,,0.0,
+In Socrates Cell?,"Kapuskasing, Toronto, Manhattan, Martha's Vineyard, Notting",0,,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Iceland, Boston,",,,,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Iceland, Boston,",,0,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Iceland, Boston,",,,0.0,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Iceland, Boston,",0,,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,,,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,0,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,,0.0,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",0,,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Kapuskasing, Ontario",,,,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Kapuskasing, Ontario",,0,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Kapuskasing, Ontario",,,0.0,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Kapuskasing, Ontario",0,,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Blithedale,",,,,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Blithedale,",,0,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Blithedale,",,,0.0,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Blithedale,",0,,,
+In Socrates Cell?,Multiple locations.,,,,0.0
+In Socrates Cell?,Multiple locations.,,0,,
+In Socrates Cell?,Multiple locations.,,,0.0,
+In Socrates Cell?,Multiple locations.,0,,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,,,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,0,,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",,,0.0,
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",0,,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Calivada, Bl",,,,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Calivada, Bl",,0,,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Calivada, Bl",,,0.0,
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Calivada, Bl",0,,,
+In Socrates Cell?,Multiple locations.,,,,0.0
+In Socrates Cell?,Multiple locations.,,0,,
+In Socrates Cell?,Multiple locations.,,,0.0,
+In Socrates Cell?,Multiple locations.,0,,,
+In Socrates Cell?,"Kensington Market, Manhattan, Martha's Vineyard, Notting Hill,",,,,0.0
+In Socrates Cell?,"Kensington Market, Manhattan, Martha's Vineyard, Notting Hill,",,0,,
+In Socrates Cell?,"Kensington Market, Manhattan, Martha's Vineyard, Notting Hill,",,,0.0,
+In Socrates Cell?,"Kensington Market, Manhattan, Martha's Vineyard, Notting Hill,",0,,,
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,,,,0.13333333333333333
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,,0.02558948059670209,,
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,,,0.10309278350515463,
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,0.18612544500887301,,,
+He believes it'll harm the privacy of Americans.,Hammersley opposes privacy invasion.,,,,0.15384615384615383
+He believes it'll harm the privacy of Americans.,Hammersley opposes privacy invasion.,,0.023505403213046533,,
+He believes it'll harm the privacy of Americans.,Hammersley opposes privacy invasion.,,,0.10526315789473685,
+He believes it'll harm the privacy of Americans.,Hammersley opposes privacy invasion.,0.14715177646857694,,,
+He believes it'll harm the privacy of Americans.,Blocking legislation.,,,,0.0
+He believes it'll harm the privacy of Americans.,Blocking legislation.,,0.011018142789200103,,
+He believes it'll harm the privacy of Americans.,Blocking legislation.,,,0.053763440860215055,
+He believes it'll harm the privacy of Americans.,Blocking legislation.,0.03232398928813501,,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,0.024808415001701823,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,0.14851485148514848,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2727272727272727,,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,0.024808415001701823,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,0.14851485148514848,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2727272727272727,,,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,,,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,0.12100518276540287,,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,,0.4597938144329897,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.46531361252218256,,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation to protect citizens' privacy.,,,,0.1111111111111111
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation to protect citizens' privacy.,,0.022416933501922302,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation to protect citizens' privacy.,,,0.09900990099009903,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation to protect citizens' privacy.,0.18181818181818182,,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,0.024808415001701823,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,,,0.14851485148514848,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2727272727272727,,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation due to privacy concerns.,,,,0.1111111111111111
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation due to privacy concerns.,,0.025098621243978974,,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation due to privacy concerns.,,,0.10000000000000002,
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation due to privacy concerns.,0.2,,,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,,,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,0.12100518276540287,,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,,,0.4597938144329897,
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.46531361252218256,,,
+1,Chip has several siblings.,,,,0.0
+1,Chip has several siblings.,,0,,
+1,Chip has several siblings.,,,0.0,
+1,Chip has several siblings.,0,,,
+1,Chip has 3 younger brothers.,,,,0.0
+1,Chip has 3 younger brothers.,,0,,
+1,Chip has 3 younger brothers.,,,0.0,
+1,Chip has 3 younger brothers.,0,,,
+1,Chip has 3 siblings.,,,,0.0
+1,Chip has 3 siblings.,,0,,
+1,Chip has 3 siblings.,,,0.0,
+1,Chip has 3 siblings.,0,,,
+1,Three.,,,,0.0
+1,Three.,,0,,
+1,Three.,,,0.0,
+1,Three.,0,,,
+1,Chip has 7 siblings.,,,,0.0
+1,Chip has 7 siblings.,,0,,
+1,Chip has 7 siblings.,,,0.0,
+1,Chip has 7 siblings.,0,,,
+1,Chip has 4 siblings.,,,,0.0
+1,Chip has 4 siblings.,,0,,
+1,Chip has 4 siblings.,,,0.0,
+1,Chip has 4 siblings.,0,,,
+1,Chip has 4 siblings.,,,,0.0
+1,Chip has 4 siblings.,,0,,
+1,Chip has 4 siblings.,,,0.0,
+1,Chip has 4 siblings.,0,,,
+1,Two.,,,,0.0
+1,Two.,,0,,
+1,Two.,,,0.0,
+1,Two.,0,,,
+1,Two.,,,,0.0
+1,Two.,,0,,
+1,Two.,,,0.0,
+1,Two.,0,,,
+1,Chip has several.,,,,0.0
+1,Chip has several.,,0,,
+1,Chip has several.,,,0.0,
+1,Chip has several.,0,,,
+In New York City.,San Pedro de Macorís.,,,,0.0
+In New York City.,San Pedro de Macorís.,,0.05372849659117709,,
+In New York City.,San Pedro de Macorís.,,,0.10000000000000002,
+In New York City.,San Pedro de Macorís.,0.2,,,
+In New York City.,He leaves baseball.,,,,0.0
+In New York City.,He leaves baseball.,,0.06257106818159155,,
+In New York City.,He leaves baseball.,,,0.10204081632653061,
+In New York City.,He leaves baseball.,0.19470019576785122,,,
+In New York City.,He leaves baseball.,,,,0.0
+In New York City.,He leaves baseball.,,0.06257106818159155,,
+In New York City.,He leaves baseball.,,,0.10204081632653061,
+In New York City.,He leaves baseball.,0.19470019576785122,,,
+In New York City.,"Iowa, then New York City.",,,,0.6666666666666665
+In New York City.,"Iowa, then New York City.",,0.41113361690051975,,
+In New York City.,"Iowa, then New York City.",,,0.7632211538461539,
+In New York City.,"Iowa, then New York City.",0.5714285714285714,,,
+In New York City.,The Caribbean.,,,,0.0
+In New York City.,The Caribbean.,,0.05833544737207805,,
+In New York City.,The Caribbean.,,,0.10416666666666666,
+In New York City.,The Caribbean.,0.17113903967753066,,,
+In New York City.,He leaves baseball.,,,,0.0
+In New York City.,He leaves baseball.,,0.06257106818159155,,
+In New York City.,He leaves baseball.,,,0.10204081632653061,
+In New York City.,He leaves baseball.,0.19470019576785122,,,
+In New York City.,The ocean.,,,,0.0
+In New York City.,The ocean.,,0.05833544737207805,,
+In New York City.,The ocean.,,,0.10416666666666666,
+In New York City.,The ocean.,0.17113903967753066,,,
+In New York City.,Iowa.,,,,0.0
+In New York City.,Iowa.,,0.03336574130316504,,
+In New York City.,Iowa.,,,0.10638297872340426,
+In New York City.,Iowa.,0.11156508007421491,,,
+In New York City.,"Iowa, then Kansas City.",,,,0.25
+In New York City.,"Iowa, then Kansas City.",,0.08633400213704504,,
+In New York City.,"Iowa, then Kansas City.",,,0.36764705882352944,
+In New York City.,"Iowa, then Kansas City.",0.3333333333333333,,,
+In New York City.,He leaves baseball.,,,,0.0
+In New York City.,He leaves baseball.,,0.06257106818159155,,
+In New York City.,He leaves baseball.,,,0.10204081632653061,
+In New York City.,He leaves baseball.,0.19470019576785122,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,
+Tuvia.,Tuvia.,,,,1.0
+Tuvia.,Tuvia.,,0.316227766016838,,
+Tuvia.,Tuvia.,,,0.9375,
+Tuvia.,Tuvia.,1.0,,,

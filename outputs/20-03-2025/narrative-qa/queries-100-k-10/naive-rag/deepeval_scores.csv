@@ -1,0 +1,101 @@
+expected_output,actual_output,BLEU-1,BLEU-4,METEOR,ROUGE-L
+A dust pan and brush,A dust-pan and brush.,0.17113903967753066,0.05833544737207805,0.10416666666666666,0.7499999999999999
+A dust pan and brush,A dust-pan.,0.38940039153570244,0.13232169883599026,0.38265306122448983,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.4,0.11362193664674995,0.37500000000000006,0.8000000000000002
+A dust pan and brush,Her dust-pan and brush.,0.4,0.11362193664674995,0.37500000000000006,0.8000000000000002
+A dust pan and brush,Her dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.0,0.0,0.0,0.5714285714285715
+A dust pan and brush,Dust-pan.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.6666666666666666,0.24028114141347542,0.625,0.8
+An advanced race,Advanced race.,0.6666666666666666,0.24028114141347542,0.625,0.8
+An advanced race,Advanced race.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.25523656890884816,0.02929627862265703,0.24313725490196078,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.25523656890884816,0.06856346714060817,0.31633986928104574,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,0.25523656890884816,0.02929627862265703,0.24313725490196078,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch thinks Stanwyk is a junkie because Stanwyk assumes,0.2308132432510116,0.035783648460675284,0.24193548387096775,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie due to his undercover investigation,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,0.04554775181964649,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,0.4039231756892703,0.04554775181964649,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,0.21952465443761057,0.016380632785140823,0.12987012987012989,0.25
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch suspects Stanwyk's cancer claim is a lie.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.14285714285714285,0.033031643180138064,0.2,0.25
+Dire Offense,A dire offence has been committed.,0.0,0.0,0.0,0.0
+Dire Offense,A murder.,0.0,0.0,0.0,0.0
+Dire Offense,"Pope declares an ""injustice"" has been committed.",0.14285714285714285,0.033031643180138064,0.2,0.25
+Dire Offense,A dire offence has been committed.,0.11111111111111109,0.023980296761827107,0.1851851851851852,0.2
+Dire Offense,Pope declares a dire offence has been committed.,0.0,0.0,0.0,0.0
+Dire Offense,"Pope declares an ""offence"" has been committed.",0.0,0.0,0.0,0.0
+Dire Offense,"Pope declares an ""offence"" has been committed.",0.0,0.0,0.0,0.0
+Dire Offense,Pope declares murder.,0.11111111111111109,0.023980296761827107,0.1851851851851852,0.2
+Dire Offense,Pope declares a dire offence has been committed.,0.10000000000000002,0.021105340631872645,0.17857142857142858,0.22222222222222224
+Dire Offense,"Pope declares ""dire offence"" has been committed.",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Kapuskasing, Toronto, Manhattan, Martha's Vineyard, Notting",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Iceland, Boston,",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Kapuskasing, Ontario",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Blithedale,",0.0,0.0,0.0,0.0
+In Socrates Cell?,Multiple locations.,0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Iceland, Laurania, Ruritania, Calivada, Bl",0.0,0.0,0.0,0.0
+In Socrates Cell?,Multiple locations.,0.0,0.0,0.0,0.0
+In Socrates Cell?,"Kensington Market, Manhattan, Martha's Vineyard, Notting Hill,",0.18612544500887301,0.02558948059670209,0.10309278350515463,0.13333333333333333
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,0.14715177646857694,0.023505403213046533,0.10526315789473685,0.15384615384615383
+He believes it'll harm the privacy of Americans.,Hammersley opposes privacy invasion.,0.03232398928813501,0.011018142789200103,0.053763440860215055,0.0
+He believes it'll harm the privacy of Americans.,Blocking legislation.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.46531361252218256,0.12100518276540287,0.4597938144329897,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.18181818181818182,0.022416933501922302,0.09900990099009903,0.1111111111111111
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation to protect citizens' privacy.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2,0.025098621243978974,0.10000000000000002,0.1111111111111111
+He believes it'll harm the privacy of Americans.,Hammersley wants to block legislation due to privacy concerns.,0.46531361252218256,0.12100518276540287,0.4597938144329897,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.0,0.0,0.0,0.0
+1,Chip has several siblings.,0.0,0.0,0.0,0.0
+1,Chip has 3 younger brothers.,0.0,0.0,0.0,0.0
+1,Chip has 3 siblings.,0.0,0.0,0.0,0.0
+1,Three.,0.0,0.0,0.0,0.0
+1,Chip has 7 siblings.,0.0,0.0,0.0,0.0
+1,Chip has 4 siblings.,0.0,0.0,0.0,0.0
+1,Chip has 4 siblings.,0.0,0.0,0.0,0.0
+1,Two.,0.0,0.0,0.0,0.0
+1,Two.,0.0,0.0,0.0,0.0
+1,Chip has several.,0.2,0.05372849659117709,0.10000000000000002,0.0
+In New York City.,San Pedro de Macorís.,0.19470019576785122,0.06257106818159155,0.10204081632653061,0.0
+In New York City.,He leaves baseball.,0.19470019576785122,0.06257106818159155,0.10204081632653061,0.0
+In New York City.,He leaves baseball.,0.5714285714285714,0.41113361690051975,0.7632211538461539,0.6666666666666665
+In New York City.,"Iowa, then New York City.",0.17113903967753066,0.05833544737207805,0.10416666666666666,0.0
+In New York City.,The Caribbean.,0.19470019576785122,0.06257106818159155,0.10204081632653061,0.0
+In New York City.,He leaves baseball.,0.17113903967753066,0.05833544737207805,0.10416666666666666,0.0
+In New York City.,The ocean.,0.11156508007421491,0.03336574130316504,0.10638297872340426,0.0
+In New York City.,Iowa.,0.3333333333333333,0.08633400213704504,0.36764705882352944,0.25
+In New York City.,"Iowa, then Kansas City.",0.19470019576785122,0.06257106818159155,0.10204081632653061,0.0
+In New York City.,He leaves baseball.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,,,,
