@@ -1,0 +1,1 @@
+Overall RPS: 1.02 req/sec, Average TTFT: 0.05 sec, Average E2E Latency: 0.95 sec, Average ITL: 0.03 sec, Average TPS: 32.71 tokens/sec, Average Retriever Time: 0.03 sec, Average Input Context Size: 806 tokens, Average Output Tokens Size: 31 tokens

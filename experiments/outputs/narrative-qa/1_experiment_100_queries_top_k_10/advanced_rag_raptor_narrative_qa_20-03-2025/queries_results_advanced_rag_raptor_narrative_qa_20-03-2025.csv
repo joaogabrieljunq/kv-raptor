@@ -1,0 +1,101 @@
+expected_output,actual_output,BLEU-1,BLEU-4,METEOR,ROUGE-L
+A dust pan and brush,A dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.0,0.0,0.0,0.5
+A dust pan and brush,Her dust-pan.,0.38940039153570244,0.13232169883599026,0.38265306122448983,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,0.6,0.12574334296829354,0.5111111111111111,1.0
+A dust pan and brush,A dust-pan and brush.,0.38940039153570244,0.13232169883599026,0.38265306122448983,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,0.38940039153570244,0.13232169883599026,0.38265306122448983,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,0.4,0.11362193664674995,0.37500000000000006,0.8000000000000002
+A dust pan and brush,Her dust-pan and brush.,0.38940039153570244,0.13232169883599026,0.38265306122448983,0.888888888888889
+A dust pan and brush,Dust-pan and brush.,0.17113903967753066,0.05833544737207805,0.10416666666666666,0.7499999999999999
+A dust pan and brush,A dust-pan.,0.6666666666666666,0.24028114141347542,0.625,0.8
+An advanced race,Advanced race.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.75,0.3976353643835253,0.9498207885304659,1.0
+An advanced race,An advanced race.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.6666666666666666,0.24028114141347542,0.625,0.8
+An advanced race,Advanced race.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.0,0.0,0.0,0.0
+An advanced race,The Dweller.,0.25523656890884816,0.06856346714060817,0.31633986928104574,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,0.25523656890884816,0.06856346714060817,0.31633986928104574,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,0.34621986487651735,0.03960111677234158,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Alan Stanwyk thinks Fletch is a junkie because he posed as,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.4039231756892703,0.08703654235438914,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he is posing as,0.23695975425391236,0.030223647151951576,0.33848417954378224,0.3809523809523809
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Fletch is mistaken for a junkie.,0.25523656890884816,0.06856346714060817,0.31633986928104574,0.33333333333333337
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because Fletch is,0.4039231756892703,0.04115703980415652,0.453125,0.3846153846153846
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he poses as an,0.4039231756892703,0.04554775181964649,0.4094799210006583,0.30769230769230765
+Because Fletch is posing as a junkie for an article for the Los Angelos Times.,Stanwyk thinks Fletch is a junkie because he's posing as,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.5,0.1495348781221221,0.45454545454545453,1.0
+Peru,Peru.,0.0,0.0,0.0,0.0
+Dire Offense,A murder has been committed.,0.08333333333333333,0.017033186037639283,0.16666666666666669,0.1818181818181818
+Dire Offense,"The Pope declares a ""dire offence"" has been committed.",0.10000000000000002,0.021105340631872645,0.17857142857142858,0.22222222222222224
+Dire Offense,"Pope declares ""dire offence"" has been committed.",0.0,0.0,0.0,0.0
+Dire Offense,Pope declares an offence.,0.0,0.0,0.0,0.0
+Dire Offense,A murder has been committed.,0.0,0.0,0.0,0.0
+Dire Offense,Pope declares murder.,0.0909090909090909,0.018850319022747353,0.1724137931034483,0.2
+Dire Offense,"Pope declares a ""dire offence"" has been committed.",0.11111111111111109,0.023980296761827107,0.1851851851851852,0.25
+Dire Offense,"A ""dire offence"" has been committed.",0.11111111111111109,0.023980296761827107,0.1851851851851852,0.25
+Dire Offense,"A ""dire offence"" has been committed.",0.11111111111111109,0.023980296761827107,0.1851851851851852,0.25
+Dire Offense,"A ""dire offence"" has been committed.",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale Farm, various locations, Calivada, Laurania,",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, various locations, Calivada, Laurania, R",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, various locations, Calivada, Laurania, R",0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, various locations.",0.0,0.0,0.0,0.0
+In Socrates Cell?,Blithedale.,0.0,0.0,0.0,0.0
+In Socrates Cell?,Blithedale.,0.0,0.0,0.0,0.0
+In Socrates Cell?,"Blithedale, Calivada, Laurania, Ruritania",0.0,0.0,0.0,0.0
+In Socrates Cell?,Blithedale.,0.0,0.0,0.0,0.0
+In Socrates Cell?,Multiple locations.,0.18612544500887301,0.02558948059670209,0.10309278350515463,0.13333333333333333
+He believes it'll harm the privacy of Americans.,Hammersley's opposition to the legislation.,0.0,0.0,0.0,0.0
+In Socrates Cell?,Blithedale Farm.,0.46531361252218256,0.12100518276540287,0.4597938144329897,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.4,0.05307712171072445,0.372,0.35294117647058826
+He believes it'll harm the privacy of Americans.,Hammersley believes it would destroy American citizens' privacy.,0.46531361252218256,0.12100518276540287,0.4597938144329897,0.5333333333333333
+He believes it'll harm the privacy of Americans.,He believes it would destroy privacy.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.37225089001774603,0.05411516285864537,0.32538659793814434,0.4
+He believes it'll harm the privacy of Americans.,Hammersley believes it would destroy privacy.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.2727272727272727,0.024808415001701823,0.14851485148514848,0.2105263157894737
+He believes it'll harm the privacy of Americans.,Hammersley wants to block the legislation due to privacy concerns.,0.0,0.0,0.0,0.0
+1,Chip has 3 younger brothers.,0.0,0.0,0.0,0.0
+1,Chip has 3 siblings.,0.19470019576785122,0.025725069574826766,0.10204081632653061,0.125
+He believes it'll harm the privacy of Americans.,Hammersley blocks legislation due to privacy concerns.,0.0,0.0,0.0,0.0
+1,Chip has 3 siblings.,0.0,0.0,0.0,0.0
+1,Three.,0.0,0.0,0.0,0.0
+1,Chip has no siblings.,0.0,0.0,0.0,0.0
+1,Chip has 3 younger brothers.,0.0,0.0,0.0,0.0
+1,Chip has three siblings.,0.0,0.0,0.0,0.0
+1,Chip has 3 siblings.,0.0,0.0,0.0,0.0
+1,Chip has no siblings.,0.0,0.0,0.0,0.0
+1,Chip has 3 siblings.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,0.7788007830714049,0.7788007830714049,0.8099489795918368,0.8571428571428571
+In New York City.,New York City.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,1.0,0.316227766016838,0.9375,1.0
+Tuvia.,Tuvia.,,,,
