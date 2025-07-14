@@ -23,4 +23,4 @@ This is the official repo from the paper KV-RAPTOR: Scalable Tree-Structured Ret
 
 ## License
 
-RAPTOR is released under the MIT License. See the LICENSE file in the repository for full details.
+KV-RAPTOR is released under the MIT License. See the LICENSE file in the repository for full details.
