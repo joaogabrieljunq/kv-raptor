@@ -1,15 +1,16 @@
 import time, threading
 import torch
-import lmcache_vllm.vllm as vllm
-from lmcache_vllm.vllm import LLM
+import lmcache
 from transformers import AutoTokenizer, TextIteratorStreamer, AutoModelForCausalLM
 
 
 class Generator:
-    def __init__(self, model_id, tokenizer, optimized=False):
-        self.model = self.load_model(model_id, tokenizer, optimized)
+    def __init__(self, model_id, optimized=False):
+        self.model_id = model_id
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model_id)
+        self.model = self.load_model(model_id, optimized)
 
-    def load_model(self, model_id, tokenizer, optimized=False):
+    def load_model(self, model_id, optimized=False):
         if optimized:
             return LLM(
                 model=model_id,
@@ -37,7 +38,6 @@ class Generator:
             tps (float): tokens per second
             token_count (int): number of tokens generated
         """
-        tokenizer = self.tokenizer
         model = self.model
 
         if "cache" in experiment_name:
@@ -51,16 +51,16 @@ class Generator:
             tfft = metrics_obj.first_token_time - metrics_obj.arrival_time
             answer = request_output.outputs[0].text.strip()
             e2e_latency = generation_end - generation_start
-            token_count = len(tokenizer.encode(answer))
+            token_count = len(self.tokenizer.encode(answer))
             itl = (e2e_latency / token_count) if token_count > 1 else 0.0
             tps = (token_count / e2e_latency) if e2e_latency > 0 else 0.0
 
         else:
             start_time_sync = time.time()
             streamer = TextIteratorStreamer(
-                tokenizer, skip_prompt=True, skip_special_tokens=True
+                self.tokenizer, skip_prompt=True, skip_special_tokens=True
             )
-            inputs = tokenizer(prompt, return_tensors="pt").to(
+            inputs = self.tokenizer(prompt, return_tensors="pt").to(
                 "cuda" if torch.cuda.is_available() else "cpu"
             )
             generation_thread = threading.Thread(
@@ -92,6 +92,6 @@ class Generator:
             else:
                 itl = 0.0
                 tps = 0.0
-            token_count = len(tokenizer.encode(answer))
+            token_count = len(self.tokenizer.encode(answer))
 
         return answer, tfft, e2e_latency, itl, tps, token_count
