@@ -1,0 +1,38 @@
+# ================================
+# ​​ UTILITIES
+# ================================
+numpy==1.26.4
+typing_extensions==4.12.2
+pydantic==2.10.6
+tqdm==4.67.1
+pandas==2.3.2
+importlib-resources
+
+# ================================
+# ​ RAPIDS GPU (cuDF / cuML)
+# ================================
+cudf-cu12==25.8.0 --extra-index-url https://pypi.nvidia.com
+cuml-cu12==25.8.0 --extra-index-url https://pypi.nvidia.com
+
+# ================================
+# ​ TORCH GPU (CUDA 12.x)
+# ================================
+torch==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu128
+torchaudio==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+
+# ... rest remains the same
+accelerate==0.26.1
+lmcache==0.3.3
+vllm==0.10.0.0
+sentence-transformers==5.1.0
+transformers==4.55.2
+huggingface_hub==0.34.4
+datasets==4.0.0
+chromadb==0.6.3
+llama-index-vector-stores-chroma==0.4.1
+llama-index-embeddings-huggingface==0.5.1
+llama-index-core==0.12.27
+llama-index==0.12.27
+llama-index-llms-openai==0.3.28
+codecarbon==3.0.4
