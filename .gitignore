@@ -201,3 +201,7 @@ cython_debug/
 *.pickle
 
 *.sqlite3
+
+*.zip
+
+*.pyc
